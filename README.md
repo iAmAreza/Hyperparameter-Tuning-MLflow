@@ -85,7 +85,7 @@ After running `mlflow ui`, open `http://localhost:5000` in your browser to visua
 
 ## Results Visualization
 ### Parent and Child Runs Visualization
-![Parent and Child Runs](parentRunchildRun.png)
+![Parent and Child Runs](childvsparentrun.png)
 
 ### Validation Accuracy vs. Runs
 ![Validation Accuracy](validation_accuracy_vs_runs.png)
