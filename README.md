@@ -64,8 +64,8 @@ This repository demonstrates how to implement hyperparameter tuning following **
 ### Installation Steps
 ```bash
 # Clone the repository
-git clone <repository-link>
-cd <repository-directory>
+git clone <git@github.com:iAmAreza/Hyperparameter-Tuning-MLflow.git>
+cd <Hyperparameter-Tuning-MLflow>
 
 # Create and activate a virtual environment
 python3 -m venv env
