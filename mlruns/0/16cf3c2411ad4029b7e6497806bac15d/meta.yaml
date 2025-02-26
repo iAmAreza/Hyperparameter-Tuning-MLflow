@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/16cf3c2411ad4029b7e6497806bac15d/artifacts
+deleted_time: 1740514809358
+end_time: 1740512391183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 16cf3c2411ad4029b7e6497806bac15d
+run_name: casual-fish-403
+run_uuid: 16cf3c2411ad4029b7e6497806bac15d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512390488
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/bd24816b06ac40a0af2dc0129b58c3ff/artifacts
+deleted_time: 1740514809348
+end_time: 1740512924083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bd24816b06ac40a0af2dc0129b58c3ff
+run_name: defiant-conch-436
+run_uuid: bd24816b06ac40a0af2dc0129b58c3ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512918332
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/6b1d5b6045b54c7a81c533e3ea75121d/artifacts
+deleted_time: 1740514809316
+end_time: 1740513778269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6b1d5b6045b54c7a81c533e3ea75121d
+run_name: magnificent-boar-890
+run_uuid: 6b1d5b6045b54c7a81c533e3ea75121d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513770611
+status: 3
+tags: []
+user_id: reza

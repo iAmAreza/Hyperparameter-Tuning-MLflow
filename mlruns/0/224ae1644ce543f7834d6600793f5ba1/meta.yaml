@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/224ae1644ce543f7834d6600793f5ba1/artifacts
+deleted_time: 1740514809293
+end_time: 1740513930771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 224ae1644ce543f7834d6600793f5ba1
+run_name: youthful-turtle-565
+run_uuid: 224ae1644ce543f7834d6600793f5ba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513923731
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/5ad88a47ef8e4202bb41a069b39f4621/artifacts
+deleted_time: 1740514809315
+end_time: 1740513785437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5ad88a47ef8e4202bb41a069b39f4621
+run_name: ambitious-donkey-797
+run_uuid: 5ad88a47ef8e4202bb41a069b39f4621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513778274
+status: 3
+tags: []
+user_id: reza

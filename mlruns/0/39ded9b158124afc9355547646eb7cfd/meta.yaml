@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/39ded9b158124afc9355547646eb7cfd/artifacts
+deleted_time: 1740514809291
+end_time: 1740513941047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 39ded9b158124afc9355547646eb7cfd
+run_name: bald-elk-342
+run_uuid: 39ded9b158124afc9355547646eb7cfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513930781
+status: 3
+tags: []
+user_id: reza

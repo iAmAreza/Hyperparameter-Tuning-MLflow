@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/0e19b0e0a9c841479930c62886c0a4f6/artifacts
+deleted_time: 1740514809370
+end_time: 1740512305280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0e19b0e0a9c841479930c62886c0a4f6
+run_name: popular-pug-175
+run_uuid: 0e19b0e0a9c841479930c62886c0a4f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512295774
+status: 3
+tags: []
+user_id: reza

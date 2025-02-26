@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/90c6135b1963412da5b7c0c7dc8f14b0/artifacts
+deleted_time: 1740514809256
+end_time: 1740513999884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 90c6135b1963412da5b7c0c7dc8f14b0
+run_name: Optuna_MNIST_Hyperparameter_Tuning
+run_uuid: 90c6135b1963412da5b7c0c7dc8f14b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513915020
+status: 4
+tags: []
+user_id: reza

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/b9a4edeafdff4872b63fed6be5f7ce2c/artifacts
+deleted_time: 1740514809358
+end_time: 1740512870342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b9a4edeafdff4872b63fed6be5f7ce2c
+run_name: incongruous-frog-783
+run_uuid: b9a4edeafdff4872b63fed6be5f7ce2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512862933
+status: 3
+tags: []
+user_id: reza

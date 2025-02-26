@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/31747f4961ad4f598e9d6740637fb0a4/artifacts
+deleted_time: 1740514809327
+end_time: 1740513219466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 31747f4961ad4f598e9d6740637fb0a4
+run_name: youthful-hare-126
+run_uuid: 31747f4961ad4f598e9d6740637fb0a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513213942
+status: 3
+tags: []
+user_id: reza

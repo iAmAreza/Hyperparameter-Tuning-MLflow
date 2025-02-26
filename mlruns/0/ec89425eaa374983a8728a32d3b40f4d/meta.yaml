@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/ec89425eaa374983a8728a32d3b40f4d/artifacts
+deleted_time: 1740514809368
+end_time: 1740512323804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ec89425eaa374983a8728a32d3b40f4d
+run_name: capricious-stag-163
+run_uuid: ec89425eaa374983a8728a32d3b40f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512314934
+status: 3
+tags: []
+user_id: reza

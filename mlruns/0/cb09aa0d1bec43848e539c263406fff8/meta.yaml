@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/cb09aa0d1bec43848e539c263406fff8/artifacts
+deleted_time: 1740514809358
+end_time: 1740512882741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cb09aa0d1bec43848e539c263406fff8
+run_name: hilarious-crow-91
+run_uuid: cb09aa0d1bec43848e539c263406fff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512870356
+status: 3
+tags: []
+user_id: reza

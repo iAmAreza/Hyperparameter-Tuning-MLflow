@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/1b095ae007ac4c908f0b75d0d150281f/artifacts
+end_time: 1740537588393
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: 1b095ae007ac4c908f0b75d0d150281f
+run_name: abrasive-fowl-512
+run_uuid: 1b095ae007ac4c908f0b75d0d150281f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740537580608
+status: 3
+tags: []
+user_id: reza

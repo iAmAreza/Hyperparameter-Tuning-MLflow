@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/6d5e31bf2ba544ee8827d89bdb42cfad/artifacts
+deleted_time: 1740514809294
+end_time: 1740513923720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6d5e31bf2ba544ee8827d89bdb42cfad
+run_name: enthused-bear-575
+run_uuid: 6d5e31bf2ba544ee8827d89bdb42cfad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513915027
+status: 3
+tags: []
+user_id: reza

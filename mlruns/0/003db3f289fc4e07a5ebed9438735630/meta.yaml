@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/003db3f289fc4e07a5ebed9438735630/artifacts
+deleted_time: 1740514809312
+end_time: 1740513793582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 003db3f289fc4e07a5ebed9438735630
+run_name: intrigued-horse-792
+run_uuid: 003db3f289fc4e07a5ebed9438735630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513785447
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/abc3682ec10f4e57a9eade3837cf0eca/artifacts
+deleted_time: 1740514809348
+end_time: 1740512932557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: abc3682ec10f4e57a9eade3837cf0eca
+run_name: funny-lark-141
+run_uuid: abc3682ec10f4e57a9eade3837cf0eca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512924087
+status: 3
+tags: []
+user_id: reza

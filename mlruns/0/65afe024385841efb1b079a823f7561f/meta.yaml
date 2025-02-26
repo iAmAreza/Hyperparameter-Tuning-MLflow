@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/65afe024385841efb1b079a823f7561f/artifacts
+deleted_time: 1740514809340
+end_time: 1740513152012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 65afe024385841efb1b079a823f7561f
+run_name: treasured-zebra-548
+run_uuid: 65afe024385841efb1b079a823f7561f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513142110
+status: 3
+tags: []
+user_id: reza

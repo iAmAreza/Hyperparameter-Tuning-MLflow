@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/646cea561d054bf783a17f52f7baa464/artifacts
+end_time: 1740514162317
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: 646cea561d054bf783a17f52f7baa464
+run_name: upbeat-wren-920
+run_uuid: 646cea561d054bf783a17f52f7baa464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740514153378
+status: 3
+tags: []
+user_id: reza

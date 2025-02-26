@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/ead37b8224c446fe9f1c497b16b6307c/artifacts
+end_time: 1740537550811
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: ead37b8224c446fe9f1c497b16b6307c
+run_name: defiant-lynx-674
+run_uuid: ead37b8224c446fe9f1c497b16b6307c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740537536870
+status: 3
+tags: []
+user_id: reza

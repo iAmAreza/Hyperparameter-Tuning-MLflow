@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/1a631a5e919742caba10f1dc4d9c3003/artifacts
+end_time: 1740514918974
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: 1a631a5e919742caba10f1dc4d9c3003
+run_name: abundant-shrimp-734
+run_uuid: 1a631a5e919742caba10f1dc4d9c3003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740514908013
+status: 3
+tags: []
+user_id: reza

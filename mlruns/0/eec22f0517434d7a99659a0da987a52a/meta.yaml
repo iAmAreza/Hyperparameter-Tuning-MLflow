@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/eec22f0517434d7a99659a0da987a52a/artifacts
+deleted_time: 1740514809286
+end_time: 1740513951302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eec22f0517434d7a99659a0da987a52a
+run_name: unequaled-shrimp-639
+run_uuid: eec22f0517434d7a99659a0da987a52a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513941054
+status: 3
+tags: []
+user_id: reza

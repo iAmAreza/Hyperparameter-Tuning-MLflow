@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/709f0e6a59bf41a590c5710a4e4b3ca8/artifacts
+deleted_time: 1740514809348
+end_time: 1740512918327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 709f0e6a59bf41a590c5710a4e4b3ca8
+run_name: persistent-lamb-107
+run_uuid: 709f0e6a59bf41a590c5710a4e4b3ca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512909795
+status: 3
+tags: []
+user_id: reza

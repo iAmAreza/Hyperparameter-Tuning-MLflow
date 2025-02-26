@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/8e746db155664b5cbce909b5312d7f80/artifacts
+deleted_time: 1740514809320
+end_time: 1740513770603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8e746db155664b5cbce909b5312d7f80
+run_name: adventurous-hare-344
+run_uuid: 8e746db155664b5cbce909b5312d7f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513764810
+status: 3
+tags: []
+user_id: reza

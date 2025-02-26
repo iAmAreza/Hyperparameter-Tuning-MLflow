@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/51df745dce184c559d54997ddef3a665/artifacts
+deleted_time: 1740514809302
+end_time: 1740513817365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 51df745dce184c559d54997ddef3a665
+run_name: bemused-mouse-348
+run_uuid: 51df745dce184c559d54997ddef3a665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513809735
+status: 3
+tags: []
+user_id: reza

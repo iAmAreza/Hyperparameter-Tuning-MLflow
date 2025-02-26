@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/69c91d96f3e74266a4de706269a535fe/artifacts
+deleted_time: 1740514809338
+end_time: 1740513178889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 69c91d96f3e74266a4de706269a535fe
+run_name: handsome-mole-737
+run_uuid: 69c91d96f3e74266a4de706269a535fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513171101
+status: 3
+tags: []
+user_id: reza

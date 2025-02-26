@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/61c962f8c7c749c1b5635f61406cb9fd/artifacts
+deleted_time: 1740514809260
+end_time: 1740513991955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 61c962f8c7c749c1b5635f61406cb9fd
+run_name: capable-carp-822
+run_uuid: 61c962f8c7c749c1b5635f61406cb9fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513983205
+status: 3
+tags: []
+user_id: reza

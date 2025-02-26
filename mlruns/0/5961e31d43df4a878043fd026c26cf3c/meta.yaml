@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/5961e31d43df4a878043fd026c26cf3c/artifacts
+deleted_time: 1740514809329
+end_time: 1740513192605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5961e31d43df4a878043fd026c26cf3c
+run_name: traveling-wren-20
+run_uuid: 5961e31d43df4a878043fd026c26cf3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513186260
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/cd22c4a0280b492caf5c0562a84983e2/artifacts
+deleted_time: 1740514809339
+end_time: 1740513162570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cd22c4a0280b492caf5c0562a84983e2
+run_name: casual-hound-776
+run_uuid: cd22c4a0280b492caf5c0562a84983e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513152020
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/6738e555257c4154a9923b6a2723292b/artifacts
+deleted_time: 1740514809282
+end_time: 1740513957865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6738e555257c4154a9923b6a2723292b
+run_name: upset-pig-549
+run_uuid: 6738e555257c4154a9923b6a2723292b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513951306
+status: 3
+tags: []
+user_id: reza

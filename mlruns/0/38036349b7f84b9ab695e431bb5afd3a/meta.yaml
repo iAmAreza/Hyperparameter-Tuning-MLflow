@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/38036349b7f84b9ab695e431bb5afd3a/artifacts
+deleted_time: 1740514809327
+end_time: 1740513207879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 38036349b7f84b9ab695e431bb5afd3a
+run_name: colorful-slug-799
+run_uuid: 38036349b7f84b9ab695e431bb5afd3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513199991
+status: 3
+tags: []
+user_id: reza

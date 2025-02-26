@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/723972ff213d479aaa3baf214b559eb4/artifacts
+end_time: 1740514202537
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: 723972ff213d479aaa3baf214b559eb4
+run_name: charming-bird-517
+run_uuid: 723972ff213d479aaa3baf214b559eb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740514197447
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/77e7e91cdf844301b92a0c7faf2ddefa/artifacts
+deleted_time: 1740514809370
+end_time: 1740512314925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 77e7e91cdf844301b92a0c7faf2ddefa
+run_name: abundant-duck-202
+run_uuid: 77e7e91cdf844301b92a0c7faf2ddefa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512305283
+status: 3
+tags: []
+user_id: reza

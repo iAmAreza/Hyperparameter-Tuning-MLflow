@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/73001b37231e419aa02c1ee5526fdcd9/artifacts
+deleted_time: 1740514809262
+end_time: 1740513983199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 73001b37231e419aa02c1ee5526fdcd9
+run_name: zealous-deer-651
+run_uuid: 73001b37231e419aa02c1ee5526fdcd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513974330
+status: 3
+tags: []
+user_id: reza

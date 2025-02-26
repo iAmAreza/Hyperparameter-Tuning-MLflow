@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/550b925297f54b2db7f17f57e5e59301/artifacts
+deleted_time: 1740514809377
+end_time: 1740512288671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 550b925297f54b2db7f17f57e5e59301
+run_name: selective-asp-939
+run_uuid: 550b925297f54b2db7f17f57e5e59301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512279023
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/3db789ec984b470e949eacab5e8a617f/artifacts
+end_time: 1740514942168
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: 3db789ec984b470e949eacab5e8a617f
+run_name: blushing-bird-479
+run_uuid: 3db789ec984b470e949eacab5e8a617f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740514934348
+status: 3
+tags: []
+user_id: reza

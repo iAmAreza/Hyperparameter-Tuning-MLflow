@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/d6030406c7374635bc05b90304673f4e/artifacts
+deleted_time: 1740514809264
+end_time: 1740513974322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d6030406c7374635bc05b90304673f4e
+run_name: trusting-carp-833
+run_uuid: d6030406c7374635bc05b90304673f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513965806
+status: 3
+tags: []
+user_id: reza

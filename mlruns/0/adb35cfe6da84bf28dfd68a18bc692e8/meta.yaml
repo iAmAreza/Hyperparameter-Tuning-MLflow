@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/adb35cfe6da84bf28dfd68a18bc692e8/artifacts
+deleted_time: 1740514809265
+end_time: 1740513965800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: adb35cfe6da84bf28dfd68a18bc692e8
+run_name: valuable-wren-259
+run_uuid: adb35cfe6da84bf28dfd68a18bc692e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513957871
+status: 3
+tags: []
+user_id: reza

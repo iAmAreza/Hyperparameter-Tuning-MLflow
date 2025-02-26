@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/2c548166e360498eb8bd823f7a858c8a/artifacts
+deleted_time: 1740514809348
+end_time: 1740512938571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2c548166e360498eb8bd823f7a858c8a
+run_name: tasteful-rat-994
+run_uuid: 2c548166e360498eb8bd823f7a858c8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512932563
+status: 3
+tags: []
+user_id: reza

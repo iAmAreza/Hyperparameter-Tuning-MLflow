@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/9a6222b1c9d846c7ac9258824143a934/artifacts
+deleted_time: 1740514809377
+end_time: 1740512279011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9a6222b1c9d846c7ac9258824143a934
+run_name: likeable-seal-459
+run_uuid: 9a6222b1c9d846c7ac9258824143a934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512266408
+status: 3
+tags: []
+user_id: reza

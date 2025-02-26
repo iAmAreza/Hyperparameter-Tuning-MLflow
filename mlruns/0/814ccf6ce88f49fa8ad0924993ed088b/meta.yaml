@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/814ccf6ce88f49fa8ad0924993ed088b/artifacts
+deleted_time: 1740514809327
+end_time: 1740513754276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 814ccf6ce88f49fa8ad0924993ed088b
+run_name: charming-grouse-764
+run_uuid: 814ccf6ce88f49fa8ad0924993ed088b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513747019
+status: 3
+tags: []
+user_id: reza

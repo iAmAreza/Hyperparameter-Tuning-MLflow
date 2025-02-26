@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/b147a9e720c34174911f3a5354a0e373/artifacts
+end_time: 1740514963868
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: b147a9e720c34174911f3a5354a0e373
+run_name: unruly-lynx-704
+run_uuid: b147a9e720c34174911f3a5354a0e373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740514956025
+status: 3
+tags: []
+user_id: reza

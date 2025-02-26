@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/a085e12165114429adf3cc6791cd9fda/artifacts
+deleted_time: 1740514809321
+end_time: 1740513764802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a085e12165114429adf3cc6791cd9fda
+run_name: carefree-toad-787
+run_uuid: a085e12165114429adf3cc6791cd9fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513754280
+status: 3
+tags: []
+user_id: reza

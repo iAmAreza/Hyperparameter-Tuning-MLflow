@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/dbb3ba4955464bd3971c5891798f775e/artifacts
+end_time: 1740537596073
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: dbb3ba4955464bd3971c5891798f775e
+run_name: worried-shark-584
+run_uuid: dbb3ba4955464bd3971c5891798f775e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740537588401
+status: 3
+tags: []
+user_id: reza

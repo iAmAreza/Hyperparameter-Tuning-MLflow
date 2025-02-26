@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/3fa1df379148497d93d8f00e76a98e9d/artifacts
+deleted_time: 1740514809313
+end_time: 1740513799039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3fa1df379148497d93d8f00e76a98e9d
+run_name: illustrious-toad-242
+run_uuid: 3fa1df379148497d93d8f00e76a98e9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513793590
+status: 3
+tags: []
+user_id: reza

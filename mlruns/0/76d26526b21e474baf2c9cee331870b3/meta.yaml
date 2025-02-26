@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/76d26526b21e474baf2c9cee331870b3/artifacts
+deleted_time: 1740514809368
+end_time: 1740512337885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 76d26526b21e474baf2c9cee331870b3
+run_name: adventurous-hawk-717
+run_uuid: 76d26526b21e474baf2c9cee331870b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512332295
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,7 @@
+artifact_location: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378
+creation_time: 1740514140303
+experiment_id: '827557292966603378'
+last_update_time: 1740537513210
+lifecycle_stage: active
+name: Optuna_MNIST_Hyperparameter_Tuning
+tags: {}

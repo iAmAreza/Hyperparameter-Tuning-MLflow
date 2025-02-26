@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/9bfe408edf0843cb9ece0a068617bf25/artifacts
+deleted_time: 1740514809368
+end_time: 1740512346577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9bfe408edf0843cb9ece0a068617bf25
+run_name: bald-gull-651
+run_uuid: 9bfe408edf0843cb9ece0a068617bf25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512337890
+status: 3
+tags: []
+user_id: reza

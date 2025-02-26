@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/8a0cd170d6664f249b3c1c6cfd162cac/artifacts
+end_time: 1740514934340
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: 8a0cd170d6664f249b3c1c6cfd162cac
+run_name: secretive-moth-381
+run_uuid: 8a0cd170d6664f249b3c1c6cfd162cac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740514925704
+status: 3
+tags: []
+user_id: reza

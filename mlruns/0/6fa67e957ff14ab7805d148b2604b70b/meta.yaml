@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/6fa67e957ff14ab7805d148b2604b70b/artifacts
+deleted_time: 1740514809367
+end_time: 1740512332286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6fa67e957ff14ab7805d148b2604b70b
+run_name: rogue-rat-675
+run_uuid: 6fa67e957ff14ab7805d148b2604b70b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512323810
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/82c343bde9584c60a980b98df31309db/artifacts
+end_time: 1740514153375
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: 82c343bde9584c60a980b98df31309db
+run_name: nimble-jay-805
+run_uuid: 82c343bde9584c60a980b98df31309db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740514147079
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/3a8f469439ee48388deb64f74e17c95d/artifacts
+end_time: 1740537527318
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: 3a8f469439ee48388deb64f74e17c95d
+run_name: big-shoat-317
+run_uuid: 3a8f469439ee48388deb64f74e17c95d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740537513430
+status: 3
+tags: []
+user_id: reza

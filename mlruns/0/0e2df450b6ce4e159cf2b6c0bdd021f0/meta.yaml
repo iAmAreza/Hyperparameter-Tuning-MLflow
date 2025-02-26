@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/0e2df450b6ce4e159cf2b6c0bdd021f0/artifacts
+deleted_time: 1740514809341
+end_time: 1740512947354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0e2df450b6ce4e159cf2b6c0bdd021f0
+run_name: dazzling-quail-141
+run_uuid: 0e2df450b6ce4e159cf2b6c0bdd021f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512938582
+status: 3
+tags: []
+user_id: reza

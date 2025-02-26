@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/7502150a08aa4981a28be6e8a6e49da0/artifacts
+deleted_time: 1740514809358
+end_time: 1740512893987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7502150a08aa4981a28be6e8a6e49da0
+run_name: mysterious-hawk-661
+run_uuid: 7502150a08aa4981a28be6e8a6e49da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512882747
+status: 3
+tags: []
+user_id: reza

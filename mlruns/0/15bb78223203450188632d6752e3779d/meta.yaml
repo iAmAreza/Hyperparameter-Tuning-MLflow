@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/15bb78223203450188632d6752e3779d/artifacts
+deleted_time: 1740514809338
+end_time: 1740513171093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 15bb78223203450188632d6752e3779d
+run_name: suave-snake-262
+run_uuid: 15bb78223203450188632d6752e3779d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513162573
+status: 3
+tags: []
+user_id: reza

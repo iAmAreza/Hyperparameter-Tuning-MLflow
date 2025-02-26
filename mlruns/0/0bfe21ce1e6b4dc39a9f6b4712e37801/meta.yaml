@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/0bfe21ce1e6b4dc39a9f6b4712e37801/artifacts
+deleted_time: 1740514809313
+end_time: 1740513809726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0bfe21ce1e6b4dc39a9f6b4712e37801
+run_name: rambunctious-eel-779
+run_uuid: 0bfe21ce1e6b4dc39a9f6b4712e37801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513804559
+status: 3
+tags: []
+user_id: reza

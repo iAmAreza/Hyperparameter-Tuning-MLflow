@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/61dd120cf1f5437aac6cc25772ebc030/artifacts
+end_time: 1740537574923
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: 61dd120cf1f5437aac6cc25772ebc030
+run_name: bemused-elk-684
+run_uuid: 61dd120cf1f5437aac6cc25772ebc030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740537566259
+status: 3
+tags: []
+user_id: reza

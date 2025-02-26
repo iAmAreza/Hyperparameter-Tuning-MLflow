@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/e50ac7c152e243659069e0f79e31a332/artifacts
+deleted_time: 1740514809360
+end_time: 1740512352539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e50ac7c152e243659069e0f79e31a332
+run_name: zealous-mouse-515
+run_uuid: e50ac7c152e243659069e0f79e31a332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740512346581
+status: 3
+tags: []
+user_id: reza

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/26cb63e77a944864880ebf5b4127f4ca/artifacts
+end_time: 1740537606272
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: 26cb63e77a944864880ebf5b4127f4ca
+run_name: trusting-cow-404
+run_uuid: 26cb63e77a944864880ebf5b4127f4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740537596081
+status: 3
+tags: []
+user_id: reza

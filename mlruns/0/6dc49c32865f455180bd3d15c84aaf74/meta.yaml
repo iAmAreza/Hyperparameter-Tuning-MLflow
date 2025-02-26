@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/6dc49c32865f455180bd3d15c84aaf74/artifacts
+deleted_time: 1740514809327
+end_time: 1740513213931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6dc49c32865f455180bd3d15c84aaf74
+run_name: merciful-koi-352
+run_uuid: 6dc49c32865f455180bd3d15c84aaf74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513207891
+status: 3
+tags: []
+user_id: reza

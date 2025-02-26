@@ -1,0 +1,16 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/0/16e0aea1243a475f9a5207b2a1af53f5/artifacts
+deleted_time: 1740514809258
+end_time: 1740513999860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 16e0aea1243a475f9a5207b2a1af53f5
+run_name: rumbling-steed-175
+run_uuid: 16e0aea1243a475f9a5207b2a1af53f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740513991963
+status: 3
+tags: []
+user_id: reza

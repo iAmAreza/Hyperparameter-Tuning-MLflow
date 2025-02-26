@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/99375dc0417b413aa89471983c307401/artifacts
+end_time: 1740514147068
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: 99375dc0417b413aa89471983c307401
+run_name: whimsical-ant-321
+run_uuid: 99375dc0417b413aa89471983c307401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740514140428
+status: 3
+tags: []
+user_id: reza

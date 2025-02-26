@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reza/Desktop/Hyper%20Parameter%20Tuning/mlruns/827557292966603378/cc695191892b47d7bb7fc68ade4308c7/artifacts
+end_time: 1740537580600
+entry_point_name: ''
+experiment_id: '827557292966603378'
+lifecycle_stage: active
+run_id: cc695191892b47d7bb7fc68ade4308c7
+run_name: honorable-boar-14
+run_uuid: cc695191892b47d7bb7fc68ade4308c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740537574931
+status: 3
+tags: []
+user_id: reza
